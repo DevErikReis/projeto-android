@@ -1,2 +1,2 @@
 # projeto-android
-Proteto android.
+Projeto android.
