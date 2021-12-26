@@ -39,15 +39,12 @@ body {
 
 }
 header {
+    width: 120%; na tela do meu celular estava dando um leve espaço entre o meu h1 do header e o meu conteúdo, as letras estavam saindo pra fora do meu header e resolvi com essa tag.
     background-color: var(--cor06);
     min-height: 150px;
     text-align: center;
-    padding-top: 40px;
-    background-image: linear-gradient( to bottom, var(--cor04), var(--cor06) );
-  
-
-   
-     
+    padding: 40px 30px 10px 30px;
+    background-image: linear-gradient( to bottom, var(--cor04), var(--cor06) );    
 }
 
 header > h1 {

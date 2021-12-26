@@ -39,11 +39,11 @@ body {
 
 }
 header {
+    width: 120%;
     background-color: var(--cor06);
     min-height: 150px;
     text-align: center;
     padding: 40px 30px 10px 30px;
-    width: 100%;
     background-image: linear-gradient( to bottom, var(--cor04), var(--cor06) );    
 }
 
