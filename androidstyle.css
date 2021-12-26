@@ -49,6 +49,9 @@ header {
    
      
 }
+header{
+    max-width: 1500px;
+}
 
 header > h1 {
     text-shadow: 2px 8px 5px black;
@@ -57,6 +60,7 @@ header > h1 {
     margin-bottom: 20px;
     font-size: 4em;
     font-weight: normal;
+    
 }
 header > p {
     color: white;
