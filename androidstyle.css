@@ -43,13 +43,8 @@ header {
     min-height: 150px;
     text-align: center;
     padding-top: 40px;
-    background-image: linear-gradient( to bottom, var(--cor04), var(--cor06) );
-  
-
-   
-     
+    background-image: linear-gradient( to bottom, var(--cor04), var(--cor06) );    
 }
-
 
 header > h1 {
     text-shadow: 2px 8px 5px black;
