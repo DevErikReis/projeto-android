@@ -49,9 +49,7 @@ header {
    
      
 }
-header{
-    min-width: 350px;
-}
+
 
 header > h1 {
     text-shadow: 2px 8px 5px black;
