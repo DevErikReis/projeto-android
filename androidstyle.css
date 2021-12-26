@@ -50,7 +50,7 @@ header {
      
 }
 header{
-    max-width: 1500px;
+    min-width: 350px;
 }
 
 header > h1 {
